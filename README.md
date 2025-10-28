@@ -13,10 +13,10 @@ The dataset can be found in [RF-Carer Dataset](https://drive.google.com/drive/fo
 
 # Code instruction
 
-**Signal Processing Layer**: The input is the raw data, the output is the processed data (i.e., the RF-Carer* in the paper). We give some processed data in our [dataset](https://drive.google.com/drive/folders/1-i_IeHzX8VMRaH8-5FLwaCGnPl_b7e0z?usp=drive_link)
+**Signal Processing Layer**: The input is the raw data, the output is the processed data (i.e., the RF-Carer* in the paper). We give some processed data in our [Processed Dataset](https://drive.google.com/drive/folders/1-i_IeHzX8VMRaH8-5FLwaCGnPl_b7e0z?usp=drive_link)
 
 **Data Training Layer**: The input is the processed data (i.e., the RF-Carer* in the paper) or the augmented data (i.e., the AUG in the paper), the output is the final prediction data (i.e., the RF-Carer in the paper).
 
 # Citation
 
-If possible, please cite our work:
+If possible, please cite our work.
